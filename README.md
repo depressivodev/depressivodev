@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @depressivodev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in nothing
+- 🌱 I’m currently learning nothing
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me dev@depressivo.dev 
 
-<!---
-depressivodev/depressivodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
+
+![1338415](https://user-images.githubusercontent.com/119380584/204426386-84b00378-9444-440f-95d5-73dcce164761.jpg)
